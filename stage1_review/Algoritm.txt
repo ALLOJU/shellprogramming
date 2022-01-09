@@ -1,0 +1,15 @@
+step1:
+	List all files in the Stage1_review  directory
+	Example:Add.java Sub.js Multiply.py Division.cs
+step2:
+	find name of the files and their extension seperately
+	Example: Add.java===> Add and java(2 seperate names)
+
+step3: 
+	create a directory and subdirectory with filename as directory 
+	and extension as subdirectory.
+	Example: Add.java==>Add/java
+
+step 4: 
+	 copy a original file (Add.java) & paste into a specific folder
+	  Example: Add/java/Add.java
